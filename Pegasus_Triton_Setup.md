@@ -2,7 +2,7 @@
 
 This doc is here to assist in usage of the University of Miami (UM) superclusters (Pegasus and Triton). The SOP docs by UM’s Institute for Data Science and Computing (IDSC) can be confusing for new users. 
 
-## Web links: 
+## Web links 
 
 * IDSC Quick Links (and where to set up an account): [link](https://idsc.miami.edu/quick-links/)
 * Pegasus User Guide: [link](https://acs-docs.readthedocs.io/pegasus/README.html)
@@ -11,7 +11,7 @@ This doc is here to assist in usage of the University of Miami (UM) supercluster
 https://security.it.miami.edu/stay-safe/sec-articles/unsupported-remote-access-tools/index.html)
 * LSF system bsub command help: [reference link](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=reference-bsub), [options link](https://www.ibm.com/docs/en/spectrum-lsf/10.1.0?topic=bsub-options)
 
-## How to get set up:
+## How to get set up
 
 1. Set up an account using the IDSC Quick Links page
 2. Connect with Dr. Traylor-Knowles and confirm your usage and which supercluster you will be using. We are charged for our usage, so she may have specific instructions regarding grants 
